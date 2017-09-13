@@ -1,0 +1,12 @@
+http://www.tutorialspoint.com/mongodb/mongodb_query_document.htm
+
+
+
+mongo
+
+use mydb
+db.createCollection(name, options)
+
+
+
+https://ssh.cloud.google.com/projects/chantest-1354/zones/us-central1-f/instances/mongodb-1-server-1?authuser=0&hl=en_GB&projectNumber=778071355721
